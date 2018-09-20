@@ -15,6 +15,8 @@ int main()
 	  if(previa==palavra)  //checa se a palavra é a mesma da ultima
 	   cout<< "palavra repetida:" <<palavra<< '\n';
 	previa= palavra;
-	}
+        }	
+return 0;
+
 }
 
