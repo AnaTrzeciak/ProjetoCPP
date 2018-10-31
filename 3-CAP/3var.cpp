@@ -30,5 +30,5 @@ int main()
  
     cout<< "Digite seu nome, sobrenome e idade\n";
     cin>> nome1>>nome2>>idade;      //leia 2 string e um inteiro
-    cout<< "Olá, "<<nome1<<" "<<nome2<<", sua idade é "<<idade<<" anos. \n";
+    cout<< "Olá, "<<nome2<<" "<<nome2<<", sua idade é "<<idade<<" anos. \n";
 } 
