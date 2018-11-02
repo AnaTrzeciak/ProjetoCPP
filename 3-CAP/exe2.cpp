@@ -2,11 +2,11 @@
 //Por: Ana Maria
 //Exercícios capitulo 3
 
-//Exercicio 2
 #include<iostream>
 #include<cmath>
 using namespace std;
 
+//Exercicio 2
 int main(){
 
   double num;
@@ -19,3 +19,4 @@ int main(){
 
   cout<<"Resultado: "<<num<<" milhas é igual a "<<num1<<" kilometros. \n";
 } 
+
