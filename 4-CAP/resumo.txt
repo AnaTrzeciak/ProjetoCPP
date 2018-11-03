@@ -1,0 +1,13 @@
+Capitulo 4 Computation:
+
+**contextpr: significa expressão constante. Não pode ser mudada no programa.
+**const: declara um objeto como uma constante.
+
+Operadores:
+
+- &&: significa "e";
+- ||: significa "ou";
+  
+Conversões:
+
+-type(value) ou type{value}: significa converta valor para o tipo. Ex: int(5)
