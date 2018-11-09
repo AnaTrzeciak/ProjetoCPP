@@ -11,3 +11,11 @@ Operadores:
 Conversões:
 
 -type(value) ou type{value}: significa converta valor para o tipo. Ex: int(5)
+
+Declarações:
+
+- sintaxe if-else:
+
+ (i) if(condição) afirmação else afirmação
+ 
+ (ii) if(condição) afirmação else if(condição) afirmação else afirmação
