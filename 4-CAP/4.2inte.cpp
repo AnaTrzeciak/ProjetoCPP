@@ -10,10 +10,21 @@ using namespace std;
 
 int main(){
 
-int i=0;
+//int i=0;
  
- while(i<100){
-	cout<<i<<'\t'<<i*i<<'\n'; // '\t' é um tab 
+// while(i<100){
+//	cout<<i<<'\t'<<i*i<<'\n'; // '\t' é um tab 
+//	++i;
+//	}
+//}
+
+//====================================================
+
+int i= 96;
+
+ while(i<122){
+	cout<<char(i+1)<<'\t'<<i+1<<'\n';
 	++i;
 	}
 }
+

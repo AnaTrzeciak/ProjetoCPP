@@ -34,3 +34,21 @@ Declarações:
 	break;
 	}
 
+- sintaxe while:
+
+ while(condição){
+ 	afirmação;
+	}
+
+-sintaxe for:
+ 
+ for(inicializador;condição;incremento)
+	afirmação;
+
+- sintaxe função:
+	
+tipo de função(lista de parametros) 
+ 	{corpo da função}
+
+
+	
