@@ -19,3 +19,18 @@ Declarações:
  (i) if(condição) afirmação else afirmação
  
  (ii) if(condição) afirmação else if(condição) afirmação else afirmação
+
+- sintaxe switch:
+ 
+  switch(caso){
+    case 'variavel(não pode ser string)':
+	afirmação;
+    	break;
+    case 'variavel':
+	afirmação;
+	break;
+    default:
+	afirmação;
+	break;
+	}
+
