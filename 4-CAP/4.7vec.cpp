@@ -20,7 +20,7 @@ double soma=0;
 for(int x:temp)soma+=x;
 	cout<<"Media da temperatura é: "<<soma/temp.size()<<'\n';
 
-//mediada da temperatura
+//mediana da temperatura
 
 sort(temp);  //ordenar temperaturas
 cout<<"Mediada de temperatura é: "<<temp[temp.size()/2]<<'\n';
