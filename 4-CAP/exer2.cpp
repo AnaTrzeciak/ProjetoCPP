@@ -4,10 +4,18 @@
 
 int main(){
 
-vector<double>distacia;
+double soma=0;
+double min=0;
+double max=0;
+
+vector<double>distancia;
 
 cout<<"Digite as distancias entre as cidades \n";
-	distancia.push_back(distancia);
 
-for(int i;i<distancia.size();++i)
-	cout<<"A distancia total entre as cidades é "<<
+for(double val;cin>>val;)
+	distancia.push_back(val);
+
+for (double i:distancia)soma +=i;
+cout<<"A distancia total entre as cidades é "<<soma<<"\n";
+
+}
