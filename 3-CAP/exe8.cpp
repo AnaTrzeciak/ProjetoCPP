@@ -1,6 +1,7 @@
 //Programming Principles and Practice Using C++: Exercicio 8
 //Feito por: Ana Maria
 //em: 02/11/2018
+//8-Write a program to test an integer value to determine if it is odd or even.
 
 #include<iostream>
 #include<cmath>
