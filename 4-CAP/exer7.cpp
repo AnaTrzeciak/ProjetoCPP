@@ -22,6 +22,7 @@ int main(){
  double d=delta(a,b,c);
  
  if(a==0){
+
 	cout << "A função não é de segundo grau.\n";
  }
  else if(d<0){
