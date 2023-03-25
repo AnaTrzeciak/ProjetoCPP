@@ -1,2 +1,6 @@
 # ProgrammCPP
-Programas feitos em C++. Livro base: Programming Principles and Practice Using C++-STROUSTRUP
+C++ and C Codes.
+
+References:
+ - Programming Principles and Practice Using C++ - STROUSTRUP
+ - https://www.learncpp.com
