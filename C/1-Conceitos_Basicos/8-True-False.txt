@@ -1,0 +1,9 @@
+//Programa feito por: Ana Maria
+//Em 28/02/2018
+//Modificado em:
+
+Sistema binário; Valores lógicos true ou false
+
+*Operador lógico E simbolizado por &&
+*Operador lógico OU simbolzado por ||
+*Operador lógico de negação simbolizado por !
